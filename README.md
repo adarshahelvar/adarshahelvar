@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://adarshahelvar.github.io/Portfolio-Bootstrap/](https://adarshahelvar.github.io/Portfolio-Bootstrap/)
+- 👨‍💻 All of my projects are available here(https://github.com/adarshahelvar?tab=repositories)
 
 - 💬 Ask me about **React, Node, Express**
 
